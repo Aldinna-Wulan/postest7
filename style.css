@@ -1,0 +1,24 @@
+body {
+	background: #996633;
+}
+.button {
+	background: green;
+}
+.kotak{
+	background: white;
+	margin: auto;
+	background-color: #996633;
+	transform: translateY(30%);
+}
+table{
+	margin: auto;
+	background-color: white;
+}
+table, td, th {
+	border: 1px solid black;
+	
+}
+
+.button2 {
+	background: #fc0303 ;
+}
